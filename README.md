@@ -15,6 +15,6 @@ pathlib
 Clona este repositorio.
 
 Instala las bibliotecas necesarias utilizando pip:
-'''
+```
 pip install yt_dlp
-'''
+```
